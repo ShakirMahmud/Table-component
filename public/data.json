@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "name": "Product A",
+    "description": "High-quality wireless headphones with noise cancellation"
+  },
+  {
+    "id": 2,
+    "name": "Product B",
+    "description": "Portable Bluetooth speaker with 12-hour battery life"
+  },
+  {
+    "id": 3,
+    "name": "Product C",
+    "description": "Smartphone with advanced camera and fast processor"
+  },
+  {
+    "id": 4,
+    "name": "Product D",
+    "description": "Laptop computer for gaming and professional work"
+  },
+  {
+    "id": 5,
+    "name": "Product E",
+    "description": "Smart watch with fitness tracking and health monitoring"
+  },
+  {
+    "id": 6,
+    "name": "Product F",
+    "description": "Wireless mouse with ergonomic design and long battery life"
+  },
+  {
+    "id": 7,
+    "name": "Product G",
+    "description": "Mechanical keyboard with customizable RGB lighting"
+  },
+  {
+    "id": 8,
+    "name": "Product H",
+    "description": "4K monitor with HDR support and adjustable stand"
+  },
+  {
+    "id": 9,
+    "name": "Product I",
+    "description": "Webcam with 1080p resolution and auto-focus"
+  },
+  {
+    "id": 10,
+    "name": "Product J",
+    "description": "USB-C hub with multiple ports and fast charging"
+  },
+  {
+    "id": 11,
+    "name": "Product K",
+    "description": "Tablet with stylus support and high-resolution display"
+  },
+  {
+    "id": 12,
+    "name": "Product L",
+    "description": "Gaming controller with haptic feedback and wireless connectivity"
+  },
+  {
+    "id": 13,
+    "name": "Product M",
+    "description": "Portable SSD with 1TB storage and fast transfer speeds"
+  },
+  {
+    "id": 14,
+    "name": "Product N",
+    "description": "Power bank with 20000mAh capacity and fast charging"
+  },
+  {
+    "id": 15,
+    "name": "Product O",
+    "description": "Desk lamp with adjustable brightness and color temperature"
+  },
+  {
+    "id": 16,
+    "name": "Product P",
+    "description": "Bluetooth earbuds with active noise cancellation"
+  },
+  {
+    "id": 17,
+    "name": "Product Q",
+    "description": "Standing desk converter with height adjustment"
+  },
+  {
+    "id": 18,
+    "name": "Product R",
+    "description": "Computer chair with lumbar support and mesh back"
+  },
+  {
+    "id": 19,
+    "name": "Product S",
+    "description": "Graphics tablet for digital art and design"
+  },
+  {
+    "id": 20,
+    "name": "Product T",
+    "description": "External hard drive with 2TB capacity and backup software"
+  },
+  {
+    "id": 21,
+    "name": "Product U",
+    "description": "VR headset with immersive gaming and media experiences"
+  },
+  {
+    "id": 22,
+    "name": "Product V",
+    "description": "Smart home hub with voice control and automation"
+  },
+  {
+    "id": 23,
+    "name": "Product W",
+    "description": "Wireless charging pad with fast charging support"
+  },
+  {
+    "id": 24,
+    "name": "Product X",
+    "description": "Action camera with 4K recording and waterproof design"
+  },
+  {
+    "id": 25,
+    "name": "Product Y",
+    "description": "Smart thermostat with energy saving and remote control"
+  }
+]
