@@ -19,9 +19,9 @@ Built with **React + Vite** and deployed on **Vercel**.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/table-component.git
+   git clone https://github.com/ShakirMahmud/table-component.git
    cd table-component
-````
+   ````
 
 2. Install dependencies:
 
