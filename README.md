@@ -1,12 +1,71 @@
-# React + Vite
+# Table Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React table component with functionality to **add products**, **search**, and **paginate** data.  
+Built with **React + Vite** and deployed on **Vercel**.
 
-Currently, two official plugins are available:
+🔗 **Live Demo**: [https://table-component-alpha.vercel.app/](https://table-component-alpha.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Features
+- Add new items with a form  
+- Search by name or description  
+- Pagination with Previous/Next and page numbers  
+- Select number of items per page (5, 10, 25, 50, 100)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/table-component.git
+   cd table-component
+````
+
+2. Install dependencies:
+
+   ```bash
+   npm install
+   ```
+
+3. Run the development server:
+
+   ```bash
+   npm run dev
+   ```
+
+4. Open [http://localhost:5173](http://localhost:5173) in your browser.
+
+---
+
+## Deployment
+
+To build for production:
+
+```bash
+npm run build
+```
+
+Then deploy using [Vercel](https://vercel.com) or any static hosting provider.
+
+---
+
+## Dependencies
+
+* `react`
+* `react-dom`
+
+### Dev Dependencies
+
+* `vite`
+* `@vitejs/plugin-react`
+* `eslint`
+* `eslint-plugin-react-hooks`
+* `eslint-plugin-react-refresh`
+* `@eslint/js`
+* `globals`
+* `@types/react`
+* `@types/react-dom`
+
+---
