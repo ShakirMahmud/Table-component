@@ -21,19 +21,19 @@ Built with **React + Vite** and deployed on **Vercel**.
    ```
    git clone https://github.com/your-username/table-component.git
    cd table-component
-```
+````
 
 2. Install dependencies:
 
    ```
    npm install
-   ```
+   ````
 
 3. Run the development server:
 
    ```
    npm run dev
-   ```
+   ````
 
 4. Open [http://localhost:5173](http://localhost:5173) in your browser.
 
@@ -45,7 +45,7 @@ To build for production:
 
 ```
 npm run build
-```
+````
 
 Then deploy using [Vercel](https://vercel.com) or any static hosting provider.
 
